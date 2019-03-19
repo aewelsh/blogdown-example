@@ -20,8 +20,8 @@ publishDir = "docs"
     name = "Research"
     url = "/research/"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "Poetry"
+    url = "/poetry/"
 
 [params]
     description = "A website built through Hugo and blogdown."
